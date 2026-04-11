@@ -1,0 +1,15 @@
+{
+  "name": "random_2",
+  "version": "1.0.0",
+  "description": "Task manager full-stack assignment",
+  "private": true,
+  "scripts": {
+    "client:dev": "npm --prefix client run dev",
+    "server:dev": "npm --prefix server run dev",
+    "client:build": "npm --prefix client run build",
+    "server:test": "npm --prefix server run test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
