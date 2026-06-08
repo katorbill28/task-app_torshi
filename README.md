@@ -1,4 +1,4 @@
-# Task Manager - Full Stack Assignment
+# Task Manager - Full Stack 
 
 Small full-stack task manager with React frontend and Express backend.
 
